@@ -1,4 +1,3 @@
-markitdown
 markitdown[all]
 reportlab
 python-pptx
